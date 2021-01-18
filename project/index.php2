@@ -1,0 +1,15 @@
+<html>
+<head>
+<title> my php </title>
+</head>
+<body>
+<form method ="post">
+<input title name ="username">
+<input title password ="password type ="password">
+<button valu= "submit"> 
+</button>
+</form>
+</body>
+</html>
+<?php
+if(isset )
